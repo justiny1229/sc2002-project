@@ -1,4 +1,4 @@
-# sc2002-project
+# SC2002-project
 
 ## Introduction
 This is an implementation of the BTO Management System, a system for applicants and HDB staffs to view, apply and manage for BTO projects.
